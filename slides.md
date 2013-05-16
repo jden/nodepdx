@@ -17,7 +17,7 @@ this is a story of
 <h1 class="fragment">i started programming when i was 10</h1>
 
 
-<img src="/img/java_for_the_web.gif" />
+<img src="img/java_for_the_web.gif" />
 
 
 <marquee scrollamount=7>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;so</marquee>
@@ -26,14 +26,14 @@ this is a story of
 <marquee scrollamount=8>&nbsp;&nbsp;marquees</marquee>
 
 
-<img src="/img/gorillas.jpg"/>
+<img src="img/gorillas.jpg"/>
 
 
-<img src="/img/xkcdgeocities.jpeg"/><br/>
-<img src="/img/construction.gif"/> <img src="/img/construction.gif"/> <img src="/img/construction.gif"/>
+<img src="img/xkcdgeocities.jpeg"/><br/>
+<img src="img/construction.gif"/> <img src="img/construction.gif"/> <img src="img/construction.gif"/>
 
 
-<img src="/img/catcher_in_the_rye.gif"/>
+<img src="img/catcher_in_the_rye.gif"/>
 
 
 ## act II
@@ -43,16 +43,16 @@ this is a story of
 # "this could make a difference"
 
 
-<img src="/img/web_of_thrones.jpg"/>
+<img src="img/web_of_thrones.jpg"/>
 
 
-<img src="/img/punks.jpg"/>
+<img src="img/punks.jpg"/>
 
 
 # patients, punks, programmers.
 
 
-<img src="/img/code.jpg"/>
+<img src="img/code.jpg"/>
 
 
 <img src="img/madison.jpg"/>
@@ -84,7 +84,7 @@ this is a story of
 
 <blockquote>The more mainstream your knowledge, the greater risk you have of being left in the technology stone age</blockquote>
 
-&mdash; <img src="/img/passionate.jpg" height="160" style="vertical-align: middle"/>
+&mdash; <img src="img/passionate.jpg" height="160" style="vertical-align: middle"/>
 
 
 # the tech stack you're using is likely "wrong"
@@ -118,7 +118,7 @@ this is a story of
 ## not opinions
 
 
-<img src="/img/protocol.jpg"/>
+<img src="img/protocol.jpg"/>
 
 
 we make systems.
