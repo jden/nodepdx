@@ -14,16 +14,16 @@ this is a story of
 
 
 ## act I
-# i started programming when i was 10
+<h1 class="fragment">i started programming when i was 10</h1>
 
 
 <img src="/img/java_for_the_web.gif" />
 
 
-<marquee>so</marquee>
-<marquee>goddam</marquee>
-<marquee>many</marquee>
-<marquee>marquees</marquee>
+<marquee scrollamount=7>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;so</marquee>
+<marquee scrollamount=5>goddam</marquee>
+<marquee scrollamount=6>&nbsp;&nbsp;&nbsp;many</marquee>
+<marquee scrollamount=8>&nbsp;&nbsp;marquees</marquee>
 
 
 <img src="/img/gorillas.jpg"/>
@@ -37,7 +37,7 @@ this is a story of
 
 
 ## act II
-# work on shit that matters
+<h1 class="fragment">work on shit that matters</h1>
 
 
 # "this could make a difference"
@@ -67,7 +67,7 @@ this is a story of
 
 
 ## act III
-# so what?
+<h1 class="fragment">so what?</h1>
 
 
 # node
@@ -106,7 +106,7 @@ this is a story of
 
 
 ## act IV
-# the getaway
+<h1 class="fragment">the getaway</h1>
 
 
 <blockquote>"I'm not afraid to compete. It's just the opposite. Dont you see that? I'm afraid I *will* compete - that's what scares me. ... Just because I'm so horribly conditioned to accept everybody else's values, and just because I like applause and people to rave about me, doesn't make it right."</blockquote>
@@ -141,3 +141,16 @@ we have as much power as we can recognize
 
 # thank you
 ## for your consideration
+<br/><br/>
+## jden.us/nodepdx
+
+
+# bibliography
+- Any book on a silly outdated technology which nonetheless totally captivates you
+- Catcher in the Rye, by JD Salinger
+- Zen and the Art of Motorcycle Maintenance, by Robert Prisig
+- The Passionate Programmer, by Chad Fowler
+- Code, by Lawrence Lessig
+- Protocol, by Alexander Galloway
+- Prince of Networks, by Graham Harmann
+- Mountains Beyond Mountains, by Tracy Kidder
